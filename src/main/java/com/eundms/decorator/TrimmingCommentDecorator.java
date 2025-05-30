@@ -1,8 +1,8 @@
 package com.eundms.decorator;
 
-public class TrimmingDecorator extends CommentDecorator {
+public class TrimmingCommentDecorator extends CommentDecorator {
 
-	public TrimmingDecorator(CommentService commentService) {
+	public TrimmingCommentDecorator(CommentService commentService) {
 		super(commentService);
 	}
 

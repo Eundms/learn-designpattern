@@ -1,2 +1,5 @@
-package com.eundms.proxy;public class GameService {
+package com.eundms.proxy;
+
+public interface GameService {
+	void startGame();
 }
