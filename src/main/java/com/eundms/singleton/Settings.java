@@ -1,0 +1,2 @@
+package com.eundms.singleton;public class Settings {
+}
